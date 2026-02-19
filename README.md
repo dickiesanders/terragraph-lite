@@ -2,7 +2,7 @@
 
 A lightweight, self-hosted web tool for visualizing Terraform infrastructure dependencies across GitHub repositories and CSP accounts. Upload your Terraform state files and instantly see interactive dependency graphs showing how resources relate across accounts, regions, and repositories.
 
-Terragraph Lite is the single-container edition of **[Terragraph](https://terragraph.net) coming soon.**, zero external dependencies and ready to run in seconds.
+Terragraph Lite is the single-container edition of [Terragraph](https://terragraph.net) **coming soon**, zero external dependencies and ready to run in seconds.
 
 ## Features
 
