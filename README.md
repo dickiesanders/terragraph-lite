@@ -64,7 +64,6 @@ docker compose up -d
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `AUTH_DISABLED` | `false` | Set to `true` to skip login (single-user/homelab mode) |
-| `DATABASE_URL` | `file:/data/terragraph.db` | SQLite database path |
 | `DATA_DIR` | `/data` | Persistent data directory |
 | `LOG_LEVEL` | `warn` | Logging verbosity: `silent`, `error`, `warn`, `info`, `debug` |
 | `PORT` | `3001` | HTTP port |
