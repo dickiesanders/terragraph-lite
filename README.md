@@ -33,7 +33,7 @@ Terragraph Lite is the single-container edition of [Terragraph](https://terragra
 docker run -d \
   -p 3001:3001 \
   -v terragraph-data:/data \
-  ghcr.io/your-org/terragraph-lite:latest
+  dickiesanders/terragraph-lite:latest
 ```
 
 Open [http://localhost:3001](http://localhost:3001) and upload your first state file.
@@ -43,7 +43,7 @@ Open [http://localhost:3001](http://localhost:3001) and upload your first state 
 ```yaml
 services:
   terragraph:
-    image: ghcr.io/your-org/terragraph-lite:latest
+    image: dickiesanders/terragraph-lite:latest
     ports:
       - "3001:3001"
     volumes:
