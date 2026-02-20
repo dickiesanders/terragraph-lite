@@ -4,9 +4,17 @@ A lightweight, self-hosted web tool for visualizing Terraform infrastructure dep
 
 Terragraph Lite is the single-container edition of [Terragraph](https://terragraph.net) **coming soon**, zero external dependencies and ready to run in seconds.
 
+### State file uploads
+
 ![Upload Demo](assets/demo-upload-tfstate.gif)
 
+### Visualize dependencies
+
 ![Graph Demo](assets/demo-graph.gif)
+
+### Create profiles
+
+**Demo coming soon**
 
 ## Features
 
